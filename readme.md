@@ -1,7 +1,7 @@
 # Frontend Test
 The backend developer has made an endpoint that returns an array of search results. Write a vue grid component consisting of the search results showing _at most_ 4 results per row. Each child component in the grid should look like the mockup below.
 
-You can use SCSS or CSS for this.
+You can use SCSS or CSS for this. We would like to see bootstrap framework version 3.4 used.
 
 ## Mockup of one result
 ![](images/mockup.png)
