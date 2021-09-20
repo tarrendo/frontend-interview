@@ -2,7 +2,7 @@
 The backend developer has made an endpoint that returns an array of search results. Write a vue grid component consisting of the search results showing _at most_ 4 results per row. Each child component in the grid should look like the mockup below.
 
 ## Mockup of one result
-![](images/tile-mockup.png)
+![](images/mockup.png)
 
 ## Endpoint Description
 ```
