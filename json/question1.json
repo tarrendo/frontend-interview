@@ -1,0 +1,81 @@
+[
+    {
+        "format": "TEXT",
+        "thumbnail_url": null,
+        "message": "text message",
+        "platforms": [
+            {
+                "name": "Facebook",
+                "has_content": false
+            },
+            {
+                "name": "Instagram",
+                "has_content": true
+            }
+        ]
+    },
+    {
+        "format": "URL",
+        "thumbnail_url": null,
+        "message": "url message",
+        "platforms": [
+            {
+                "name": "Facebook",
+                "has_content": true
+            },
+            {
+                "name": "Instagram",
+                "has_content": false
+            }
+        ]
+    },
+    {
+        "format": "IMAGE",
+        "selected_assets": 1,
+        "total_assets": 2,
+        "thumbnail_url": "https://s3.amazonaws.com/ts-brand-manager/lpUHKejPSHKB44JxEpml_fog.jpg",
+        "message": "image message",
+        "platforms": [
+            {
+                "name": "Facebook",
+                "has_content": true
+            },
+            {
+                "name": "Instagram",
+                "has_content": true
+            }
+        ]
+    },
+    {
+        "format": "VIDEO",
+        "selected_assets": 1,
+        "total_assets": 1,
+        "thumbnail_url": "https://s3.amazonaws.com/ts-brand-manager/1UF2cVR9W3FhmiOKJchg_fef.jpg",
+        "message": "video message",
+        "platforms": [
+            {
+                "name": "Facebook",
+                "has_content": true
+            },
+            {
+                "name": "Instagram",
+                "has_content": true
+            }
+        ]
+    },
+    {
+        "format": "TEXT",
+        "thumbnail_url": null,
+        "message": "This tile should wrap",
+        "platforms": [
+            {
+                "name": "Facebook",
+                "has_content": false
+            },
+            {
+                "name": "Instagram",
+                "has_content": true
+            }
+        ]
+    }
+]

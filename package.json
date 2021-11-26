@@ -1,0 +1,44 @@
+{
+  "name": "frontend-interview",
+  "version": "1.0.0",
+  "description": "The backend developer has made an endpoint that returns an array of search results. Write a vue grid component consisting of the search results showing _at most_ 4 results per row. Each child component in the grid should look like the mockup below.",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "webpack-dev-server --mode development",
+    "prod": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatsus/frontend-interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatsus/frontend-interview/issues"
+  },
+  "homepage": "https://github.com/thatsus/frontend-interview#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.3.0",
+    "express": "^4.17.1",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.2",
+    "style-loader": "^3.3.0",
+    "vue-loader": "^15.9.8",
+    "vue-style-loader": "^4.1.3",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.56.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "dependencies": {
+    "core-js": "^3.18.1",
+    "regenerator-runtime": "^0.13.9",
+    "vue": "^2.6.14"
+  }
+}
